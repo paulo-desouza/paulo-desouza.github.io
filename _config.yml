@@ -23,10 +23,10 @@ timezone: America/Bethesda
 
 title: Paulo's Blog                          # the main title
 
-tagline: Personal Tech Journal   # it will display as the sub-title
+tagline: Tech Journal   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Documenting my progress and experimentation with IT and coding.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://paulo-desouza.github.io'
@@ -44,7 +44,7 @@ social:
   email: campdsouza@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/desouza_ps      # change to your twitter homepage
     - https://github.com/paulo-desouza       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
